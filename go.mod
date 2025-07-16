@@ -1,4 +1,4 @@
-module github.com/flysano/final-main
+module github.com/flysano/final-main-create-workflow
 
 go 1.24.4
 
